@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm   Jesse</h1>
+<h1 align="center">Hi 👋, I'm   Antony</h1>
 
 <!-- [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h2 align="center">  -->
@@ -82,7 +82,7 @@
 ## Copyright
 
 ```bash
-  © By Jesse Wambu
+  © By Antony Sewe
 ```
 
 
